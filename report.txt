@@ -1,0 +1,24 @@
+Date: 29 Ara 2021 07:19:19 GMT
+Client IP: 127.0.0.1
+Requested Domain: edge-chat.instagram.com
+Path: ?
+Method: CONNECT
+----------------------
+Date: 29 Ara 2021 07:19:20 GMT
+Client IP: 127.0.0.1
+Requested Domain: i.instagram.com
+Path: ?
+Method: CONNECT
+----------------------
+Date: 29 Ara 2021 07:19:24 GMT
+Client IP: 127.0.0.1
+Requested Domain: www.instagram.com
+Path: ?
+Method: CONNECT
+----------------------
+Date: 29 Ara 2021 07:19:24 GMT
+Client IP: 127.0.0.1
+Requested Domain: www.instagram.com
+Path: ?
+Method: CONNECT
+----------------------
